@@ -95,7 +95,7 @@ const numbersToAdd3 = []
 // Give it an 'array' parameter
 // put an empty array in the funtion (result)
 // Write a conditional statement if else statement that will make each element in the array the sum of the elements up to that point. 
-// Return the new array (result)
+// Return the new array (result).
   
 const accumulatedArray = (array) => {
   const result = [];

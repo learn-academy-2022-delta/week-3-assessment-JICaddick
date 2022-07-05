@@ -72,4 +72,4 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 4. Ruby blocks: A block is a chunk of code. Ruby blocks are anonymous functions that we can pass into methods. They can have arguments which should be defined between 2 pipe characters (||).
 
-5. Ruby hashes: A Rbyb hash is like an array but instead of using an integer index it indexes using arbitrary keys and can be of any object type. A Ruby hash is a KV pair separated by a fat arrow (=>). The following is a basic example of a Ruby hash bloodTypes = { A: 12, B:5, AB: 2, O: 28}
+5. Ruby hashes: A Rbyb hash is like an array but instead of using an integer index it indexes using arbitrary keys and can be of any object type. A Ruby hash is a KV pair separated by a fat arrow (=>). The following is a basic example of a Ruby hash bloodTypes = { A: 12, B:5, AB: 2, O: 28}.
